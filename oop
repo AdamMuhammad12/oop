@@ -1,0 +1,16 @@
+<?php
+class mobil{
+	public $merk;
+		   $warna;
+}
+
+$mboil1 = new Mobil();
+$mobil1->merk = "Subaru";
+$mobil1->warna = "Hitam";
+
+$mboil2 = new Mobil();
+$mobil2->merk = "Toyota";
+$mobil2->warna = "Kuning";
+
+
+?>
